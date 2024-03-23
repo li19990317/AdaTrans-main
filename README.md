@@ -4,7 +4,7 @@ Predicting the molecular binding of bioactive molecules is crucial for drug disc
 
 
 
-## The environment of DeepMGR
+## The environment of AdaTrans
 ```
 python==3.11.6
 numpy==1.16.4
@@ -21,7 +21,6 @@ scikit-learn==1.3.2
 ## Dataset description
 In this paper, three benchmark datasets are used, i.e., BindingDB, Davis and KIBA. 
 
-We also introduce a new dataset PDBbind to evaluate the performance of binding region prediction, and the'ESPF' file that contains sub-structure information is provided.
 
 ## Run the AdaTrans for protein-ligand binding affinity task
 By default, you can run our model using Davis dataset with:
