@@ -19,7 +19,7 @@ scikit-learn==1.3.2
 ```
 
 ## Dataset description
-In this paper, three benchmark datasets are used, i.e., BindingDB, Davis and KIBA. 
+In this paper, three benchmark datasets are used, i.e., BindingDB, Davis and KIBA. Our data is uploaded on the [zenodo](https://zenodo.org/records/11197301) link. Download ```data.zip``` into the AdaTrans-main file folder. Then, unzip the compressed data to get a folder with name ``` data ``` for use. The three settings, i.e. (SD) interactions between new drugs and known proteins, (ST) interactions between known drugs and new proteins, (SP) new interactions between drug-protein pairs.
 
 
 ## Run the AdaTrans for protein-ligand binding affinity task
